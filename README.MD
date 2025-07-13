@@ -69,7 +69,7 @@ Learning: Python, Aspen Plus, Machine Learning
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aminomrani&show_icons=true&theme=radical" width="48%"/>
