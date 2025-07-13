@@ -21,9 +21,6 @@ Learning: Python, Aspen Plus, Machine Learning
 * 🧪 **Styrene Reactor Optimization**
   Simulating a styrene production reactor in Aspen Plus, extracting dataset, building ML models in Python, and writing a scientific paper.
 
-* 🤖 **Telegram Support System**
-  Developing a modular, plugin-based Telegram support bot using `PHP` and `MySQL`.
-
 * ⚙️ **Process Automation**
   Writing scripts to automate real engineering problems and workflow using Python.
 
